@@ -14,32 +14,21 @@
 
 ---
 
-## 📸 App Screenshots
+## 📸 Screenshots
 
-### 🖼️ Home Page  
-![Home Page](https://github.com/your-username/sukoon-app/assets/homepage.jpg)
+### 🖼️ Add Diary Entry
+![Add Diary Entry](screens/add_diary_entry.jpeg)
 
----
+### 🖼️ View Entries
+![View Entries](screens/view_entries.jpeg)
 
-### 🖼️ Add Diary Entry  
-![Add Diary Entry](https://github.com/your-username/sukoon-app/assets/add-diary-entry.jpg)
+### 🖼️ Wellness Score Tracker
+![Wellness Score Tracker](screens/wellness_score.jpeg)
 
----
+### 🖼️ Emergency Support
+![Emergency Support](screens/emergency_support.jpeg)
 
-### 🖼️ View Entries  
-![View Entries](https://github.com/your-username/sukoon-app/assets/view-entries.jpg)
-
----
-
-### 🖼️ Track Wellness Score  
-![Wellness Score](https://github.com/your-username/sukoon-app/assets/wellness-score.jpg)
-
----
-
-### 🖼️ Emergency Help and Support  
-![Emergency Help](https://github.com/your-username/sukoon-app/assets/emergency-help.jpg)
-
-> ⚠️ Replace each image URL with your actual GitHub uploaded image URL. Just right-click the uploaded image in GitHub and "Copy Image Address".
+> ✅ All screenshots are from the actual app you developed.
 
 ---
 
@@ -68,7 +57,6 @@
 
 ## 👨‍💻 Team Members
 
-- **Ahmed** – Research & Problem Identification  
 - **Waseem** – AI Solution & Script  
 - **Omer** – App Development
 
