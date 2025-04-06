@@ -17,74 +17,16 @@
 ## 📸 Screenshots
 
 ### 🖼️ Add Diary Entry
-![Add Diary Entry](screens/add_diary_entry.jpeg)
-
+![WhatsApp Image 2025-04-06 at 10 59 26 AM](https://github.com/user-attachments/assets/e9202053-be43-4002-a947-08d338fd8877)
 ### 🖼️ View Entries
-![View Entries](screens/view_entries.jpeg)
-
+![WhatsApp Image 2025-04-06 at 10 59 26 AM (2)](https://github.com/user-attachments/assets/4b30a7fb-7d4a-4bec-a0ef-ab25703b9c6f)
 ### 🖼️ Wellness Score Tracker
-![Wellness Score Tracker](screens/wellness_score.jpeg)
+![WhatsApp Image 2025-04-06 at 10 59 26 AM (1)](https://github.com/user-attachments/assets/f1ae18fb-5dc7-4d4e-8daf-cfb2d7cc04f7)
 
-### 🖼️ Emergency Support
-![Emergency Support](screens/emergency_support.jpeg)
+![WhatsApp Image 2025-04-06 at 10 59 25 AM](https://github.com/user-attachments/assets/f3ae673d-83f2-425e-bcd1-c297d1d45e00)
 
-> ✅ All screenshots are from the actual app you developed.
-
----
-
-## 📖 Problem Statement
-
-> In 1963, Betty Friedan described motherhood as *“The Problem That Has No Name.”*  
-> Even today, 1 in 5 mothers faces anxiety or depression—and 75% go untreated. Despite family and social media, many feel socially isolated, which is now considered more dangerous than smoking or obesity.
-
----
-
-## 💡 Our Solution
-
-**Sukoon** uses AI to close the maternal mental health gap. It detects stress signals, predicts emotional downturns, and delivers wellness tools—all in one simple, secure mobile app.
-
----
-
-## 📚 Research & References
-
-- **WHO** – 1 in 5 mothers face maternal mental health issues  
-- **CDC** – 75% of affected mothers remain untreated  
-- **APA** – Social isolation more harmful than smoking or obesity  
-- **NIMH** – AI can detect mental distress and predict risks  
-- **JMIR** – Mental health apps are effective and accessible  
-
----
-
-## 👨‍💻 Team Members
-
-- **Waseem** – AI Solution & Script  
-- **Omer** – App Development
-
----
-
-## 🧠 Abbreviations Used
-
-- **WHO** – World Health Organization  
-- **CDC** – Centers for Disease Control and Prevention  
-- **APA** – American Psychological Association  
-- **NIMH** – National Institute of Mental Health  
-- **JMIR** – Journal of Medical Internet Research  
-
----
-
-## 🛠️ Tech Stack
-
-- Flutter (Dart)  
-- Firebase / Google Cloud  
-- Google AI APIs  
-- Figma (for UI Design)
-
----
-
-## 🧪 Installation
-
-```bash
-git clone https://github.com/your-username/sukoon-app.git
-cd sukoon-app
-flutter pub get
-flutter run
+![WhatsApp Image 2025-04-06 at 10 59 25 AM (1)](https://github.com/user-attachments/assets/8add82a1-f300-416c-81a9-d2e51e4936c6)
+![WhatsApp Image 2025-04-06 at 10 59 24 AM](https://github.com/user-attachments/assets/415725b4-69ad-4fd5-b054-faa0915172b2)
+![WhatsApp Image 2025-04-06 at 10 59 24 AM (1)](https://github.com/user-attachments/assets/717c64b5-9c2a-452b-86bc-a6ade5487c97)
+![WhatsApp Image 2025-04-06 at 10 59 27 AM](https://github.com/user-attachments/assets/c799b0ea-9630-445f-8bd5-d37fc04f0ab2)
+![WhatsApp Image 2025-04-06 at 10 59 27 AM (1)](https://github.com/user-attachments/assets/377ecec2-dcae-4587-bbdc-8a7a5ce5d469)
