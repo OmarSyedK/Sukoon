@@ -117,10 +117,6 @@ Sukoon leverages AI and mobile technology to:
       <img src="https://github.com/user-attachments/assets/574e1ee6-2f4c-4853-b094-3f74b1a64e2d" width="100" height="100" style="border-radius: 50%;"/><br>
       <b>Sama Khan</b>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/3ed626d0-44a2-49b2-a673-1b62256af599" width="100" height="100" style="border-radius: 50%;"/><br>
-      <b>Ahmed Qudsi</b>
-    </td>
   </tr>
 </table>
 
